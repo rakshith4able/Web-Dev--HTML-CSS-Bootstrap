@@ -1,0 +1,15 @@
+.circle
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: background-color 3s 1s;
+    
+}
+
+.circle:hover
+{
+    background-color: black;
+    border-radius: 50%;
+    
+}
